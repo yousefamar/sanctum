@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/yousefamar/sanctum/issues"
   },
-  "homepage": "https://github.com/yousefamar/sanctum#readme"
+  "homepage": "https://github.com/yousefamar/sanctum#readme",
+  "dependencies": {
+    "bravey": "^0.1.5",
+    "pigpio": "^1.2.2",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "short-hash": "^1.0.0"
+  }
 }
